@@ -40,4 +40,3 @@ welcome=[
 puts welcome.sample
 sleep 1
 puts  answer.sample
-puts 1
